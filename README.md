@@ -1,4 +1,4 @@
 # hello-world
 Learning to use GitHub
 
-Learning to use GitHub. Beginner in Ruby and JavaScript.
+I am a beginner in Ruby and JavaScript.
