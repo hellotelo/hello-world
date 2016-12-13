@@ -1,2 +1,6 @@
 # hello-world
-Learning to use GitHub
+Learning
+the
+GitHubs
+
+I am a beginner in Ruby and JavaScript.
